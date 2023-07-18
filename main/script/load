@@ -1,0 +1,10 @@
+local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/satboicudo/dinissimo/main/main/script/dahood.lua"))();
+local Notify = AkaliNotif.Notify;
+Notify({
+Description = "Subscribe to Vascal on YouTube";
+Title = "_usery#9489 On Discord";
+Duration = 15;
+});
+getgenv().Speed = true
+getgenv().FakeMacro = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/satboicudo/dinissimo/main/main/script/Kit%2520tools.txt"))()
